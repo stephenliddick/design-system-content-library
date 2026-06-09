@@ -1,0 +1,140 @@
+{
+  "_schema_version": "2.0.0",
+  "id": "show_wpbk",
+  "description": "Serafina, the West's fiercest knight, expected torture when captured by barbarians. Instead, she got a marriage proposal! Marrying her sworn enemy is a hard no! But after seeing her wedding captor's culture and very pretty face, she may be tempted to swap her sword for a wedding veil. Get ready for the ultimate enemies-to-maybe-lovers arc.",
+  "keyart_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/shows/warrior-princess-and-the-barbaric-king/keyart.jpg",
+  "rating": "16+",
+  "lang_state": "Dub Sub",
+  "audio_lang": [
+    "JA",
+    "EN",
+    "ID",
+    "DE",
+    "FR",
+    "AR",
+    "HI"
+  ],
+  "sub_lang": [
+    "EN",
+    "ID",
+    "MS",
+    "DE",
+    "ES",
+    "FR",
+    "IT",
+    "PT",
+    "VI",
+    "RU",
+    "AR",
+    "ZH",
+    "TH"
+  ],
+  "studio": "",
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Romance",
+    "Shonen"
+  ],
+  "year_start": 2025,
+  "seasons": {
+    "1": {
+      "episode_count": 9,
+      "year": 2025,
+      "episodes": [
+        {
+          "id": "wpbk_s1e1",
+          "title": "S1E1 - The Defeated Warrior Princess, Taken Captive",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/warrior-princess-and-the-barbaric-king/s1e1.jpg",
+          "_meta": {
+            "episode_number": 1,
+            "episode_title": "The Defeated Warrior Princess, Taken Captive",
+            "duration_minutes": 23
+          }
+        },
+        {
+          "id": "wpbk_s1e2",
+          "title": "S1E2 - Fear of the Unknown",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/warrior-princess-and-the-barbaric-king/s1e2.jpg",
+          "_meta": {
+            "episode_number": 2,
+            "episode_title": "Fear of the Unknown",
+            "duration_minutes": 23
+          }
+        },
+        {
+          "id": "wpbk_s1e3",
+          "title": "S1E3 - To Be a Warrior is To Be a Hypocrite",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/warrior-princess-and-the-barbaric-king/s1e3.jpg",
+          "_meta": {
+            "episode_number": 3,
+            "episode_title": "To Be a Warrior is To Be a Hypocrite",
+            "duration_minutes": 23
+          }
+        },
+        {
+          "id": "wpbk_s1e4",
+          "title": "S1E4 - A Drinking Party Clears the Fog",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/warrior-princess-and-the-barbaric-king/s1e4.jpg",
+          "_meta": {
+            "episode_number": 4,
+            "episode_title": "A Drinking Party Clears the Fog",
+            "duration_minutes": 23
+          }
+        },
+        {
+          "id": "wpbk_s1e5",
+          "title": "S1E5 - Hands that Pray For Coming Conflict",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/warrior-princess-and-the-barbaric-king/s1e5.jpg",
+          "_meta": {
+            "episode_number": 5,
+            "episode_title": "Hands that Pray For Coming Conflict",
+            "duration_minutes": 23
+          }
+        },
+        {
+          "id": "wpbk_s1e6",
+          "title": "S1E6 - Man-Made Disasters",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/warrior-princess-and-the-barbaric-king/s1e6.jpg",
+          "_meta": {
+            "episode_number": 6,
+            "episode_title": "Man-Made Disasters",
+            "duration_minutes": 23
+          }
+        },
+        {
+          "id": "wpbk_s1e7",
+          "title": "S1E7 - Flows to Purify Corruption",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/warrior-princess-and-the-barbaric-king/s1e7.jpg",
+          "_meta": {
+            "episode_number": 7,
+            "episode_title": "Flows to Purify Corruption",
+            "duration_minutes": 23
+          }
+        },
+        {
+          "id": "wpbk_s1e8",
+          "title": "S1E8 - A Contract in the Form of a Collaring",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/warrior-princess-and-the-barbaric-king/s1e8.jpg",
+          "_meta": {
+            "episode_number": 8,
+            "episode_title": "A Contract in the Form of a Collaring",
+            "duration_minutes": 23,
+            "lang_state_override": "Sub"
+          }
+        },
+        {
+          "id": "wpbk_s1e9",
+          "title": "S1E9 - Episode 9",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/warrior-princess-and-the-barbaric-king/s1e9.jpg",
+          "_meta": {
+            "episode_number": 9,
+            "episode_title": "Episode 9",
+            "duration_minutes": 23,
+            "lang_state_override": "Sub"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "_schema_version": "2.0.0",
+  "_description": "Master manifest. One entry per show. All episode data lives in the show's own file.",
+  "_agent_instructions": {
+    "get_show": "Fetch {slug}.json for all show metadata and episodes",
+    "get_season": "Fetch {slug}.json → seasons['{n}'].episodes",
+    "get_random": "Fetch each show file → pick randomly from any seasons.*.episodes array, merge show-level fields into each episode",
+    "add_show": "Create {slug}.json → add entry here with status: stub",
+    "add_season": "Edit {slug}.json → add key to seasons object → update seasons_available here"
+  },
+  "shows": [
+    {
+      "id": "show_mha",
+      "slug": "my-hero-academia",
+      "show": "MY HERO ACADEMIA",
+      "show_full": "My Hero Academia",
+      "file": "my-hero-academia.json",
+      "seasons_available": [
+        1,
+        2,
+        3
+      ],
+      "seasons_total": 7,
+      "status": "ongoing"
+    },
+    {
+      "id": "show_cote",
+      "slug": "classroom-of-the-elite",
+      "show": "CLASSROOM OF THE ELITE",
+      "show_full": "Classroom of the Elite",
+      "file": "classroom-of-the-elite.json",
+      "seasons_available": [
+        1
+      ],
+      "seasons_total": 3,
+      "status": "ongoing"
+    },
+    {
+      "id": "show_wpbk",
+      "slug": "warrior-princess-and-the-barbaric-king",
+      "show": "THE WARRIOR PRINCESS AND THE BARBARIC KING",
+      "show_full": "The Warrior Princess and the Barbaric King",
+      "file": "warrior-princess-and-the-barbaric-king.json",
+      "seasons_available": [
+        1
+      ],
+      "seasons_total": 1,
+      "status": "ongoing"
+    }
+  ]
+}
