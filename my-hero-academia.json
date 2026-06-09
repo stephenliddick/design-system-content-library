@@ -1,8 +1,8 @@
 {
   "_schema_version": "2.0.0",
   "id": "show_mha",
-  "description": "Izuku has dreamt of being a hero all his life—a lofty goal for anyone, but especially challenging for a kid with no superpowers. That's right, in a world where eighty percent of the population has some kind of super-powered \"quirk,\" Izuku was unlucky enough to be born completely normal. But that's not enough to stop him from enrolling in one of the world's most prestigious hero academies.",
-  "keyart_image": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto/catalog/crunchyroll/acae9f5a7c079cd575a64aab3f6343b6.png",
+  "description": "Izuku has dreamt of being a hero all his life\u2014a lofty goal for anyone, but especially challenging for a kid with no superpowers. That's right, in a world where eighty percent of the population has some kind of super-powered \"quirk,\" Izuku was unlucky enough to be born completely normal. But that's not enough to stop him from enrolling in one of the world's most prestigious hero academies.",
+  "keyart_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/keyart.jpg",
   "rating": "14+",
   "lang_state": "Dub Sub",
   "audio_lang": [
@@ -41,7 +41,7 @@
         {
           "id": "mha_s1e1",
           "title": "S1E1 - Izuku Midoriya: Origin",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s1e1.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s1e1.jpg",
           "_meta": {
             "episode_number": 1,
             "episode_title": "Izuku Midoriya: Origin",
@@ -51,7 +51,7 @@
         {
           "id": "mha_s1e2",
           "title": "S1E2 - What It Takes to Be a Hero",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s1e2.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s1e2.jpg",
           "_meta": {
             "episode_number": 2,
             "episode_title": "What It Takes to Be a Hero",
@@ -61,7 +61,7 @@
         {
           "id": "mha_s1e3",
           "title": "S1E3 - Roaring Muscles",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s1e3.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s1e3.jpg",
           "_meta": {
             "episode_number": 3,
             "episode_title": "Roaring Muscles",
@@ -71,7 +71,7 @@
         {
           "id": "mha_s1e4",
           "title": "S1E4 - Start Line",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s1e4.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s1e4.jpg",
           "_meta": {
             "episode_number": 4,
             "episode_title": "Start Line",
@@ -81,7 +81,7 @@
         {
           "id": "mha_s1e5",
           "title": "S1E5 - What I Can Do for Now",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s1e5.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s1e5.jpg",
           "_meta": {
             "episode_number": 5,
             "episode_title": "What I Can Do for Now",
@@ -91,7 +91,7 @@
         {
           "id": "mha_s1e6",
           "title": "S1E6 - Rage, You Damn Nerd",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s1e6.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s1e6.jpg",
           "_meta": {
             "episode_number": 6,
             "episode_title": "Rage, You Damn Nerd",
@@ -101,7 +101,7 @@
         {
           "id": "mha_s1e7",
           "title": "S1E7 - Deku vs. Kacchan",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s1e7.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s1e7.jpg",
           "_meta": {
             "episode_number": 7,
             "episode_title": "Deku vs. Kacchan",
@@ -111,7 +111,7 @@
         {
           "id": "mha_s1e8",
           "title": "S1E8 - Bakugo's Start Line",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s1e8.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s1e8.jpg",
           "_meta": {
             "episode_number": 8,
             "episode_title": "Bakugo's Start Line",
@@ -121,7 +121,7 @@
         {
           "id": "mha_s1e9",
           "title": "S1E9 - Yeah, Just Do Your Best, Iida!",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s1e9.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s1e9.jpg",
           "_meta": {
             "episode_number": 9,
             "episode_title": "Yeah, Just Do Your Best, Iida!",
@@ -131,7 +131,7 @@
         {
           "id": "mha_s1e10",
           "title": "S1E10 - Encounter with the Unknown",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s1e10.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s1e10.jpg",
           "_meta": {
             "episode_number": 10,
             "episode_title": "Encounter with the Unknown",
@@ -141,7 +141,7 @@
         {
           "id": "mha_s1e11",
           "title": "S1E11 - Game Over",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s1e11.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s1e11.jpg",
           "_meta": {
             "episode_number": 11,
             "episode_title": "Game Over",
@@ -151,7 +151,7 @@
         {
           "id": "mha_s1e12",
           "title": "S1E12 - All Might",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s1e12.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s1e12.jpg",
           "_meta": {
             "episode_number": 12,
             "episode_title": "All Might",
@@ -161,7 +161,7 @@
         {
           "id": "mha_s1e13",
           "title": "S1E13 - In Each of Our Hearts",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s1e13.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s1e13.jpg",
           "_meta": {
             "episode_number": 13,
             "episode_title": "In Each of Our Hearts",
@@ -177,7 +177,7 @@
         {
           "id": "mha_s2e13_5",
           "title": "E13.5 - Hero Notebook",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e13-5.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e13-5.jpg",
           "_meta": {
             "episode_number": 13.5,
             "episode_title": "Hero Notebook",
@@ -187,7 +187,7 @@
         {
           "id": "mha_s2e14",
           "title": "S2E14 - That's the Idea, Ochaco",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e14.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e14.jpg",
           "_meta": {
             "episode_number": 14,
             "episode_title": "That's the Idea, Ochaco",
@@ -197,7 +197,7 @@
         {
           "id": "mha_s2e15",
           "title": "S2E15 - Roaring Sports Festival",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e15.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e15.jpg",
           "_meta": {
             "episode_number": 15,
             "episode_title": "Roaring Sports Festival",
@@ -207,7 +207,7 @@
         {
           "id": "mha_s2e16",
           "title": "S2E16 - In Their Own Quirky Ways",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e16.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e16.jpg",
           "_meta": {
             "episode_number": 16,
             "episode_title": "In Their Own Quirky Ways",
@@ -217,7 +217,7 @@
         {
           "id": "mha_s2e17",
           "title": "S2E17 - Strategy, Strategy, Strategy",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e17.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e17.jpg",
           "_meta": {
             "episode_number": 17,
             "episode_title": "Strategy, Strategy, Strategy",
@@ -227,7 +227,7 @@
         {
           "id": "mha_s2e18",
           "title": "S2E18 - Cavalry Battle Finale",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e18.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e18.jpg",
           "_meta": {
             "episode_number": 18,
             "episode_title": "Cavalry Battle Finale",
@@ -237,7 +237,7 @@
         {
           "id": "mha_s2e19",
           "title": "S2E19 - The Boy Born with Everything",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e19.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e19.jpg",
           "_meta": {
             "episode_number": 19,
             "episode_title": "The Boy Born with Everything",
@@ -247,7 +247,7 @@
         {
           "id": "mha_s2e20",
           "title": "S2E20 - Victory or Defeat",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e20.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e20.jpg",
           "_meta": {
             "episode_number": 20,
             "episode_title": "Victory or Defeat",
@@ -257,7 +257,7 @@
         {
           "id": "mha_s2e21",
           "title": "S2E21 - Battle on, Challengers!",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e21.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e21.jpg",
           "_meta": {
             "episode_number": 21,
             "episode_title": "Battle on, Challengers!",
@@ -267,7 +267,7 @@
         {
           "id": "mha_s2e22",
           "title": "S2E22 - Bakugo vs. Uraraka",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e22.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e22.jpg",
           "_meta": {
             "episode_number": 22,
             "episode_title": "Bakugo vs. Uraraka",
@@ -277,7 +277,7 @@
         {
           "id": "mha_s2e23",
           "title": "S2E23 - Shoto Todoroki: Origin",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e23.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e23.jpg",
           "_meta": {
             "episode_number": 23,
             "episode_title": "Shoto Todoroki: Origin",
@@ -287,7 +287,7 @@
         {
           "id": "mha_s2e24",
           "title": "S2E24 - Fight on, Iida",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e24.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e24.jpg",
           "_meta": {
             "episode_number": 24,
             "episode_title": "Fight on, Iida",
@@ -297,7 +297,7 @@
         {
           "id": "mha_s2e25",
           "title": "S2E25 - Todoroki vs. Bakugo",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e25.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e25.jpg",
           "_meta": {
             "episode_number": 25,
             "episode_title": "Todoroki vs. Bakugo",
@@ -307,7 +307,7 @@
         {
           "id": "mha_s2e26",
           "title": "S2E26 - Time to Pick Some Names",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e26.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e26.jpg",
           "_meta": {
             "episode_number": 26,
             "episode_title": "Time to Pick Some Names",
@@ -317,7 +317,7 @@
         {
           "id": "mha_s2e27",
           "title": "S2E27 - Bizarre! Gran Torino Appears",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e27.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e27.jpg",
           "_meta": {
             "episode_number": 27,
             "episode_title": "Bizarre! Gran Torino Appears",
@@ -327,7 +327,7 @@
         {
           "id": "mha_s2e28",
           "title": "S2E28 - Midoriya and Shigaraki",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e28.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e28.jpg",
           "_meta": {
             "episode_number": 28,
             "episode_title": "Midoriya and Shigaraki",
@@ -337,7 +337,7 @@
         {
           "id": "mha_s2e29",
           "title": "S2E29 - Hero Killer: Stain vs U.A. Students",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e29.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e29.jpg",
           "_meta": {
             "episode_number": 29,
             "episode_title": "Hero Killer: Stain vs U.A. Students",
@@ -347,7 +347,7 @@
         {
           "id": "mha_s2e30",
           "title": "S2E30 - Climax",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e30.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e30.jpg",
           "_meta": {
             "episode_number": 30,
             "episode_title": "Climax",
@@ -357,7 +357,7 @@
         {
           "id": "mha_s2e31",
           "title": "S2E31 - The Aftermath of Hero Killer: Stain",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e31.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e31.jpg",
           "_meta": {
             "episode_number": 31,
             "episode_title": "The Aftermath of Hero Killer: Stain",
@@ -367,7 +367,7 @@
         {
           "id": "mha_s2e32",
           "title": "S2E32 - Everyone's Internships",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e32.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e32.jpg",
           "_meta": {
             "episode_number": 32,
             "episode_title": "Everyone's Internships",
@@ -377,7 +377,7 @@
         {
           "id": "mha_s2e33",
           "title": "S2E33 - Listen Up!! A Tale from the Past",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e33.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e33.jpg",
           "_meta": {
             "episode_number": 33,
             "episode_title": "Listen Up!! A Tale from the Past",
@@ -387,7 +387,7 @@
         {
           "id": "mha_s2e34",
           "title": "S2E34 - Gear up for Final Exams",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e34.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e34.jpg",
           "_meta": {
             "episode_number": 34,
             "episode_title": "Gear up for Final Exams",
@@ -397,7 +397,7 @@
         {
           "id": "mha_s2e35",
           "title": "S2E35 - Yaoyorozu: Rising",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e35.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e35.jpg",
           "_meta": {
             "episode_number": 35,
             "episode_title": "Yaoyorozu: Rising",
@@ -407,7 +407,7 @@
         {
           "id": "mha_s2e36",
           "title": "S2E36 - Stripping the Varnish",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e36.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e36.jpg",
           "_meta": {
             "episode_number": 36,
             "episode_title": "Stripping the Varnish",
@@ -417,7 +417,7 @@
         {
           "id": "mha_s2e37",
           "title": "S2E37 - Katsuki Bakugo: Origin",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e37.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e37.jpg",
           "_meta": {
             "episode_number": 37,
             "episode_title": "Katsuki Bakugo: Origin",
@@ -427,7 +427,7 @@
         {
           "id": "mha_s2e38",
           "title": "S2E38 - Encounter",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s2e38.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s2e38.jpg",
           "_meta": {
             "episode_number": 38,
             "episode_title": "Encounter",
@@ -443,7 +443,7 @@
         {
           "id": "mha_s3e39",
           "title": "S3E39 - Game Start",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e39.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e39.jpg",
           "_meta": {
             "episode_number": 39,
             "episode_title": "Game Start",
@@ -453,7 +453,7 @@
         {
           "id": "mha_s3e40",
           "title": "S3E40 - Wild, Wild Pussycats",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e40.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e40.jpg",
           "_meta": {
             "episode_number": 40,
             "episode_title": "Wild, Wild Pussycats",
@@ -463,7 +463,7 @@
         {
           "id": "mha_s3e41",
           "title": "S3E41 - Kota",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e41.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e41.jpg",
           "_meta": {
             "episode_number": 41,
             "episode_title": "Kota",
@@ -473,7 +473,7 @@
         {
           "id": "mha_s3e42",
           "title": "S3E42 - My Hero",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e42.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e42.jpg",
           "_meta": {
             "episode_number": 42,
             "episode_title": "My Hero",
@@ -483,7 +483,7 @@
         {
           "id": "mha_s3e43",
           "title": "S3E43 - Drive It Home, Iron Fist!!!",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e43.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e43.jpg",
           "_meta": {
             "episode_number": 43,
             "episode_title": "Drive It Home, Iron Fist!!!",
@@ -493,7 +493,7 @@
         {
           "id": "mha_s3e44",
           "title": "S3E44 - Roaring Upheaval",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e44.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e44.jpg",
           "_meta": {
             "episode_number": 44,
             "episode_title": "Roaring Upheaval",
@@ -503,7 +503,7 @@
         {
           "id": "mha_s3e45",
           "title": "S3E45 - What a Twist!",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e45.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e45.jpg",
           "_meta": {
             "episode_number": 45,
             "episode_title": "What a Twist!",
@@ -513,7 +513,7 @@
         {
           "id": "mha_s3e46",
           "title": "S3E46 - From Iida to Midoriya",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e46.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e46.jpg",
           "_meta": {
             "episode_number": 46,
             "episode_title": "From Iida to Midoriya",
@@ -523,7 +523,7 @@
         {
           "id": "mha_s3e47",
           "title": "S3E47 - All For One",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e47.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e47.jpg",
           "_meta": {
             "episode_number": 47,
             "episode_title": "All For One",
@@ -533,7 +533,7 @@
         {
           "id": "mha_s3e48",
           "title": "S3E48 - Symbol of Peace",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e48.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e48.jpg",
           "_meta": {
             "episode_number": 48,
             "episode_title": "Symbol of Peace",
@@ -543,7 +543,7 @@
         {
           "id": "mha_s3e49",
           "title": "S3E49 - One For All",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e49.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e49.jpg",
           "_meta": {
             "episode_number": 49,
             "episode_title": "One For All",
@@ -553,7 +553,7 @@
         {
           "id": "mha_s3e50",
           "title": "S3E50 - End of the Beginning, Beginning of the End",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e50.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e50.jpg",
           "_meta": {
             "episode_number": 50,
             "episode_title": "End of the Beginning, Beginning of the End",
@@ -563,7 +563,7 @@
         {
           "id": "mha_s3e51",
           "title": "S3E51 - Moving into Dorms",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e51.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e51.jpg",
           "_meta": {
             "episode_number": 51,
             "episode_title": "Moving into Dorms",
@@ -573,7 +573,7 @@
         {
           "id": "mha_s3e52",
           "title": "S3E52 - Create Those Ultimate Moves",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e52.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e52.jpg",
           "_meta": {
             "episode_number": 52,
             "episode_title": "Create Those Ultimate Moves",
@@ -583,7 +583,7 @@
         {
           "id": "mha_s3e53",
           "title": "S3E53 - The Test",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e53.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e53.jpg",
           "_meta": {
             "episode_number": 53,
             "episode_title": "The Test",
@@ -593,7 +593,7 @@
         {
           "id": "mha_s3e54",
           "title": "S3E54 - Shiketsu High Lurking",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e54.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e54.jpg",
           "_meta": {
             "episode_number": 54,
             "episode_title": "Shiketsu High Lurking",
@@ -603,7 +603,7 @@
         {
           "id": "mha_s3e55",
           "title": "S3E55 - Class 1-A",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e55.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e55.jpg",
           "_meta": {
             "episode_number": 55,
             "episode_title": "Class 1-A",
@@ -613,7 +613,7 @@
         {
           "id": "mha_s3e56",
           "title": "S3E56 - RUSH!",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e56.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e56.jpg",
           "_meta": {
             "episode_number": 56,
             "episode_title": "RUSH!",
@@ -623,7 +623,7 @@
         {
           "id": "mha_s3e57",
           "title": "S3E57 - Rescue Exercises",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e57.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e57.jpg",
           "_meta": {
             "episode_number": 57,
             "episode_title": "Rescue Exercises",
@@ -633,7 +633,7 @@
         {
           "id": "mha_s3e58",
           "title": "S3E58 - Special Episode: Save the World with Love!",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e58.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e58.jpg",
           "_meta": {
             "episode_number": 58,
             "episode_title": "Special Episode: Save the World with Love!",
@@ -643,7 +643,7 @@
         {
           "id": "mha_s3e59",
           "title": "S3E59 - What's the Big Idea?",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e59.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e59.jpg",
           "_meta": {
             "episode_number": 59,
             "episode_title": "What's the Big Idea?",
@@ -653,7 +653,7 @@
         {
           "id": "mha_s3e60",
           "title": "S3E60 - A Talk about Your Quirk",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e60.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e60.jpg",
           "_meta": {
             "episode_number": 60,
             "episode_title": "A Talk about Your Quirk",
@@ -663,7 +663,7 @@
         {
           "id": "mha_s3e61",
           "title": "S3E61 - Deku vs. Kacchan, Part 2",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e61.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e61.jpg",
           "_meta": {
             "episode_number": 61,
             "episode_title": "Deku vs. Kacchan, Part 2",
@@ -673,7 +673,7 @@
         {
           "id": "mha_s3e62",
           "title": "S3E62 - A Season for Encounters",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e62.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e62.jpg",
           "_meta": {
             "episode_number": 62,
             "episode_title": "A Season for Encounters",
@@ -683,7 +683,7 @@
         {
           "id": "mha_s3e63",
           "title": "S3E63 - Unrivaled",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/my-hero-academia/s3e63.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/my-hero-academia/s3e63.jpg",
           "_meta": {
             "episode_number": 63,
             "episode_title": "Unrivaled",
@@ -692,6 +692,5 @@
         }
       ]
     }
-  },
-  "keyart_image_github": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/shows/my-hero-academia/keyart.jpg"
+  }
 }
