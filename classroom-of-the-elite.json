@@ -2,7 +2,7 @@
   "_schema_version": "2.0.0",
   "id": "show_cote",
   "description": "Kiyotaka Ayanokoji has just enrolled at Tokyo Koudo Ikusei Senior High School, where it's said that 100% of students go on to college or find employment. But he ends up in Class 1-D, which is full of all the school's problem children. What's more, every month, the school awards students points with a cash value of 100,000 yen, and the classes employ a laissez-faire policy in which talking...",
-  "keyart_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/shows/classroom-of-the-elite/keyart.jpg",
+  "keyart_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/classroom-of-the-elite/keyart.jpg",
   "rating": "14+",
   "lang_state": "Dub Sub",
   "audio_lang": [
@@ -43,7 +43,7 @@
         {
           "id": "cote_s1e1",
           "title": "S1E1 - What is evil? Whatever springs from weakness.",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/classroom-of-the-elite/s1e1.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/classroom-of-the-elite/s1e1.jpg",
           "_meta": {
             "episode_number": 1,
             "episode_title": "What is evil? Whatever springs from weakness.",
@@ -53,7 +53,7 @@
         {
           "id": "cote_s1e2",
           "title": "S1E2 - It takes a great talent and skill to conceal one's talent and skill.",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/classroom-of-the-elite/s1e2.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/classroom-of-the-elite/s1e2.jpg",
           "_meta": {
             "episode_number": 2,
             "episode_title": "It takes a great talent and skill to conceal one's talent and skill.",
@@ -62,18 +62,18 @@
         },
         {
           "id": "cote_s1e3",
-          "title": "S1E3 - Man is an animal that makes bargains: no other animal does this – no dog exchanges bones with another.",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/classroom-of-the-elite/s1e3.jpg",
+          "title": "S1E3 - Man is an animal that makes bargains: no other animal does this \u2013 no dog exchanges bones with another.",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/classroom-of-the-elite/s1e3.jpg",
           "_meta": {
             "episode_number": 3,
-            "episode_title": "Man is an animal that makes bargains: no other animal does this – no dog exchanges bones with another.",
+            "episode_title": "Man is an animal that makes bargains: no other animal does this \u2013 no dog exchanges bones with another.",
             "duration_minutes": 24
           }
         },
         {
           "id": "cote_s1e4",
           "title": "S1E4 - We should not be upset that others hide the truth from us, when we hide it so often from ourselves.",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/classroom-of-the-elite/s1e4.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/classroom-of-the-elite/s1e4.jpg",
           "_meta": {
             "episode_number": 4,
             "episode_title": "We should not be upset that others hide the truth from us, when we hide it so often from ourselves.",
@@ -83,7 +83,7 @@
         {
           "id": "cote_s1e5",
           "title": "S1E5 - Hell is other people",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/classroom-of-the-elite/s1e5.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/classroom-of-the-elite/s1e5.jpg",
           "_meta": {
             "episode_number": 5,
             "episode_title": "Hell is other people",
@@ -93,7 +93,7 @@
         {
           "id": "cote_s1e6",
           "title": "S1E6 - There are two kinds of lies; one concerns an accomplished fact, the other concerns a future duty.",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/classroom-of-the-elite/s1e6.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/classroom-of-the-elite/s1e6.jpg",
           "_meta": {
             "episode_number": 6,
             "episode_title": "There are two kinds of lies; one concerns an accomplished fact, the other concerns a future duty.",
@@ -103,7 +103,7 @@
         {
           "id": "cote_s1e7",
           "title": "S1E7 - Nothing is as dangerous as an ignorant friend; a wise enemy is to be preferred",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/classroom-of-the-elite/s1e7.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/classroom-of-the-elite/s1e7.jpg",
           "_meta": {
             "episode_number": 7,
             "episode_title": "Nothing is as dangerous as an ignorant friend; a wise enemy is to be preferred",
@@ -113,7 +113,7 @@
         {
           "id": "cote_s1e8",
           "title": "S1E8 - Abandon all hope, ye who enter here.",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/classroom-of-the-elite/s1e8.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/classroom-of-the-elite/s1e8.jpg",
           "_meta": {
             "episode_number": 8,
             "episode_title": "Abandon all hope, ye who enter here.",
@@ -123,7 +123,7 @@
         {
           "id": "cote_s1e9",
           "title": "S1E9 - Man is condemned to be free.",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/classroom-of-the-elite/s1e9.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/classroom-of-the-elite/s1e9.jpg",
           "_meta": {
             "episode_number": 9,
             "episode_title": "Man is condemned to be free.",
@@ -133,7 +133,7 @@
         {
           "id": "cote_s1e10",
           "title": "S1E10 - Every man has in himself the most dangerous traitor of all",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/classroom-of-the-elite/s1e10.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/classroom-of-the-elite/s1e10.jpg",
           "_meta": {
             "episode_number": 10,
             "episode_title": "Every man has in himself the most dangerous traitor of all",
@@ -143,7 +143,7 @@
         {
           "id": "cote_s1e11",
           "title": "S1E11 - What people commonly call fate is mostly their own stupidity.",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/classroom-of-the-elite/s1e11.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/classroom-of-the-elite/s1e11.jpg",
           "_meta": {
             "episode_number": 11,
             "episode_title": "What people commonly call fate is mostly their own stupidity.",
@@ -153,7 +153,7 @@
         {
           "id": "cote_s1e12",
           "title": "S1E12 - Genius lives only one story above madness.",
-          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/episodes/classroom-of-the-elite/s1e12.jpg",
+          "keyframe_image": "https://raw.githubusercontent.com/stephenliddick/design-system-content-library/main/images/classroom-of-the-elite/s1e12.jpg",
           "_meta": {
             "episode_number": 12,
             "episode_title": "Genius lives only one story above madness.",
